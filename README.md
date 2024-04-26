@@ -1,4 +1,4 @@
-# Solana Wallet Utility
+# SOL Distributor
 
 This utility is designed to manage and operate on Solana wallets. It allows generating wallets, distributing SOL, viewing balances, and consolidating funds.
 
